@@ -10,3 +10,4 @@ Currently, two official plugins are available:
 =======
 # notes-app
 >>>>>>> 6b481ce2051692b82de1b6a7e5cf34a200506fcb
+# Project Usage
